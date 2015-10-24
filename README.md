@@ -20,4 +20,4 @@ Click on 'Create my Access Token' and Copy:
 1. Access Token
 2. Access Token Secret
 
-Once you have these 4 keys, put them in the index.php file and run it on a sever. You'll start following people who are talking about a certain keyword.
+Once you have these 4 keys, put them in the index.php file and run it on a server. You'll start following people who are talking about a certain keyword.
