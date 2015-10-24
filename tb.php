@@ -28,7 +28,7 @@ class TwitterBot
 
 	$query = array(
 	  "q"           => $interest,
-	  "count"       => 10,
+	  "count"       => $follow_limit,
 	  "result_type" => "recent",
 	);
 

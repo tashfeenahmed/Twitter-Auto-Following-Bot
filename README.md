@@ -1,6 +1,9 @@
 # Twitter Auto Following Bot
 Follow people who have recently tweeted about a topic you love
 
+# Why do you need this?
+You can only build real good following if you follow people of your interests yourself. Most of them will follow back. Then you can use lists to frequently follow the people that actually interest you.
+
 # Usage
 1. Go to http://apps.twitter.com
 2. Click on 'Create New App'
